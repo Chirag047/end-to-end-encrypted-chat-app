@@ -13,6 +13,18 @@ A secure, real-time chat application built with **React**, **Node.js**, and **So
 
 ---
 
+## 🖼️ Preview
+
+<p align="center">
+  <img width="800" alt="Chat UI Preview" src="https://github.com/user-attachments/assets/7c6e352f-617f-461b-96e9-885860863956" />
+</p>
+
+<p align="center">
+  <img width="800" alt="Encryption Flow" src="https://github.com/user-attachments/assets/260dd218-35c5-4491-8ccb-796bef08ba44" />
+</p>
+
+---
+
 ## ⚙️ Architecture Overview
 
 ### Frontend (React)
